@@ -6,8 +6,10 @@ const getCat = () => {
     .then((response) => response.json())
     .then((response) => {
       img.src = response.data.images.original.url;
+    })
+    .catch((error) => {
+      console.log(error);
+      alert('Ups, cannot fetch the cat rigth about now! Please try again later.');
     });
 };
-const button = document.querySelector('button');
-
 getCat();
