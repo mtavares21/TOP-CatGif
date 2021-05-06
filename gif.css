@@ -39,6 +39,7 @@ color:white;
 }
 input{
 appearance: none;
+height: 30px;
 border: 0 none;
 margin: 0 10px;
 background-color: rgb(238, 234, 15);
@@ -46,6 +47,8 @@ font-family: 'Roboto Mono', monospace;
 font-size: 15px;
 border-radius: 5px;
 text-align: center;
+padding-left: 10px;
+padding-right: 10px;
 }
 input:focus{
 appearance: none;

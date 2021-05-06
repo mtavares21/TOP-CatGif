@@ -1,0 +1,28 @@
+{
+  "name": "top-catgif",
+  "version": "1.0.0",
+  "description": "A simple project essencially about working with API's.",
+  "main": "gif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtavares21/TOP-CatGif.git"
+  },
+  "keywords": [
+    "gif",
+    "cat"
+  ],
+  "author": "Miguel Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtavares21/TOP-CatGif/issues"
+  },
+  "homepage": "https://github.com/mtavares21/TOP-CatGif#readme",
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
