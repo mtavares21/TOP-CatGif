@@ -1,6 +1,6 @@
 # TOP-CatGif
 
-A simple project essencially about working with API's.
+A simple project to apply the basics of working with API's.
 
 Just click on the button and fetch a new gif!
 
